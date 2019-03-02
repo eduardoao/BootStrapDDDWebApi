@@ -42,6 +42,6 @@ D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\API\obj\Debug\netcoreapp
 D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
 D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\API\obj\Debug\netcoreapp2.2\API.dll
 D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\API\obj\Debug\netcoreapp2.2\API.pdb
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\API\bin\Debug\netcoreapp2.2\API.xml
 D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
 D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
-D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\API\bin\Debug\netcoreapp2.2\API.xml

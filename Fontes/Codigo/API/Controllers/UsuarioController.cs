@@ -36,6 +36,8 @@ namespace API.Controllers
 
         // GET api/<controller>/5
         [HttpGet("{id}")]
+        //api/person/byId?id=1
+        [HttpGet("byId")]
         public IActionResult Get(int id)
         {
             try
@@ -78,6 +80,7 @@ namespace API.Controllers
         {
             try
             {
+                //Usuario value = new Usuario() { Id = id };
                 service.Put<UsuarioValidator>(value);
 
                 return new ObjectResult(value);
@@ -92,6 +95,25 @@ namespace API.Controllers
             }
 
         }
-     
+
+        //DELETE api/controller/1
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+            try
+            {
+                service.Remove(id);
+                return NoContent();
+            }
+            catch (ArgumentException ex)
+            {
+                return NotFound(ex);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex);
+            }
+        }
+
     }
 }

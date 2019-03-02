@@ -75,7 +75,7 @@ namespace API
             app.UseCors();
 
             // Ativando middlewares para uso do Swagger
-            app.UseSwagger();
+            //app.UseSwagger();
             //app.UseSwaggerUI(c =>
             //{
             //    c.SwaggerEndpoint("/swagger/v1/swagger.json",
