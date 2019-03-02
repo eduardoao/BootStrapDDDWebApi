@@ -1,0 +1,13 @@
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Service\bin\Debug\netcoreapp2.1\Service.dll
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Service\bin\Debug\netcoreapp2.1\Service.pdb
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Service\bin\Debug\netcoreapp2.1\Data.dll
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Service\bin\Debug\netcoreapp2.1\Domain.dll
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Service\bin\Debug\netcoreapp2.1\Data.pdb
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Service\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Service\obj\Debug\netcoreapp2.1\Service.csprojResolveAssemblyReference.cache
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Service\obj\Debug\netcoreapp2.1\Service.dll
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Service\obj\Debug\netcoreapp2.1\Service.pdb

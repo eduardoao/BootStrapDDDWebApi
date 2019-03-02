@@ -1,0 +1,14 @@
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Service\bin\Debug\netcoreapp2.2\Movimentacao.Service.deps.json
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Service\bin\Debug\netcoreapp2.2\Movimentacao.Service.dll
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Service\bin\Debug\netcoreapp2.2\Movimentacao.Service.pdb
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Service\bin\Debug\netcoreapp2.2\Movimentacao.Data.dll
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Service\bin\Debug\netcoreapp2.2\Movimentacao.Domain.dll
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Service\bin\Debug\netcoreapp2.2\Movimentacao.Data.pdb
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Service\bin\Debug\netcoreapp2.2\Movimentacao.Domain.pdb
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Service\obj\Debug\netcoreapp2.2\Movimentacao.Service.csproj.CoreCompileInputs.cache
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Service\obj\Debug\netcoreapp2.2\Movimentacao.Service.AssemblyInfoInputs.cache
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Service\obj\Debug\netcoreapp2.2\Movimentacao.Service.AssemblyInfo.cs
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Service\obj\Debug\netcoreapp2.2\Movimentacao.Service.dll
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Service\obj\Debug\netcoreapp2.2\Movimentacao.Service.pdb
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Service\obj\Debug\netcoreapp2.2\Movimentacao.Service.csprojAssemblyReference.cache
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Service\obj\Debug\netcoreapp2.2\Movimentacao.Service.csproj.CopyComplete

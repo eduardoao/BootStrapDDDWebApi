@@ -1,0 +1,17 @@
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\MovimentacaoSolution\Movimentacao.Cross\bin\Debug\netcoreapp2.2\Cross.deps.json
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\MovimentacaoSolution\Movimentacao.Cross\bin\Debug\netcoreapp2.2\Cross.dll
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\MovimentacaoSolution\Movimentacao.Cross\bin\Debug\netcoreapp2.2\Cross.pdb
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\MovimentacaoSolution\Movimentacao.Cross\obj\Debug\netcoreapp2.2\Cross.csproj.CoreCompileInputs.cache
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\MovimentacaoSolution\Movimentacao.Cross\obj\Debug\netcoreapp2.2\Cross.AssemblyInfoInputs.cache
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\MovimentacaoSolution\Movimentacao.Cross\obj\Debug\netcoreapp2.2\Cross.AssemblyInfo.cs
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\MovimentacaoSolution\Movimentacao.Cross\obj\Debug\netcoreapp2.2\Cross.dll
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\MovimentacaoSolution\Movimentacao.Cross\obj\Debug\netcoreapp2.2\Cross.pdb
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Cross\bin\Debug\netcoreapp2.2\Cross.deps.json
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Cross\bin\Debug\netcoreapp2.2\Cross.dll
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Cross\bin\Debug\netcoreapp2.2\Cross.pdb
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.2\Cross.csproj.CoreCompileInputs.cache
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.2\Cross.AssemblyInfoInputs.cache
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.2\Cross.AssemblyInfo.cs
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.2\Cross.dll
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.2\Cross.pdb
+D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.2\Cross.csprojAssemblyReference.cache

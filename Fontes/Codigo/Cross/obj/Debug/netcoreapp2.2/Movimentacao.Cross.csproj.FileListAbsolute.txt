@@ -1,0 +1,9 @@
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Cross\bin\Debug\netcoreapp2.2\Movimentacao.Cross.deps.json
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Cross\bin\Debug\netcoreapp2.2\Movimentacao.Cross.dll
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Cross\bin\Debug\netcoreapp2.2\Movimentacao.Cross.pdb
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Cross\obj\Debug\netcoreapp2.2\Movimentacao.Cross.csprojResolveAssemblyReference.cache
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Cross\obj\Debug\netcoreapp2.2\Movimentacao.Cross.csproj.CoreCompileInputs.cache
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Cross\obj\Debug\netcoreapp2.2\Movimentacao.Cross.AssemblyInfoInputs.cache
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Cross\obj\Debug\netcoreapp2.2\Movimentacao.Cross.AssemblyInfo.cs
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Cross\obj\Debug\netcoreapp2.2\Movimentacao.Cross.dll
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Cross\obj\Debug\netcoreapp2.2\Movimentacao.Cross.pdb

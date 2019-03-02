@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API</name>
+    </assembly>
+    <members>
+        <member name="M:API.Controllers.UsuarioController.Get">
+            <summary>
+            Retorna a lista de todos os usuarios.     
+            </summary>       
+            <returns>Objeto contendo usuarios.
+            </returns>
+        </member>
+    </members>
+</doc>

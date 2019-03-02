@@ -1,0 +1,9 @@
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Domain\bin\Debug\netcoreapp2.2\Movimentacao.Domain.deps.json
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Domain\bin\Debug\netcoreapp2.2\Movimentacao.Domain.dll
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Domain\bin\Debug\netcoreapp2.2\Movimentacao.Domain.pdb
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Domain\obj\Debug\netcoreapp2.2\Movimentacao.Domain.csprojResolveAssemblyReference.cache
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Domain\obj\Debug\netcoreapp2.2\Movimentacao.Domain.csproj.CoreCompileInputs.cache
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Domain\obj\Debug\netcoreapp2.2\Movimentacao.Domain.AssemblyInfoInputs.cache
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Domain\obj\Debug\netcoreapp2.2\Movimentacao.Domain.AssemblyInfo.cs
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Domain\obj\Debug\netcoreapp2.2\Movimentacao.Domain.dll
+D:\Codigos\Entrevistas\Exame\Fontes\MovimentacaoSolution\Movimentacao.Domain\obj\Debug\netcoreapp2.2\Movimentacao.Domain.pdb
