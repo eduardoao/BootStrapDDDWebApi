@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "Cross/1.0.0": {
+      "cross/1.0.0": {
         "runtime": {
           "Cross.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "Cross/1.0.0": {
+    "cross/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,14 @@
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\BootStrapDDDWebApi\API1\bin\Debug\netcoreapp2.1\API1.deps.json
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\BootStrapDDDWebApi\API1\bin\Debug\netcoreapp2.1\API1.runtimeconfig.json
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\BootStrapDDDWebApi\API1\bin\Debug\netcoreapp2.1\API1.runtimeconfig.dev.json
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\BootStrapDDDWebApi\API1\bin\Debug\netcoreapp2.1\API1.dll
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\BootStrapDDDWebApi\API1\bin\Debug\netcoreapp2.1\API1.pdb
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\BootStrapDDDWebApi\API1\obj\Debug\netcoreapp2.1\API1.csprojAssemblyReference.cache
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\BootStrapDDDWebApi\API1\obj\Debug\netcoreapp2.1\API1.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\BootStrapDDDWebApi\API1\obj\Debug\netcoreapp2.1\API1.RazorAssemblyInfo.cache
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\BootStrapDDDWebApi\API1\obj\Debug\netcoreapp2.1\API1.RazorAssemblyInfo.cs
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\BootStrapDDDWebApi\API1\obj\Debug\netcoreapp2.1\API1.AssemblyInfoInputs.cache
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\BootStrapDDDWebApi\API1\obj\Debug\netcoreapp2.1\API1.AssemblyInfo.cs
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\BootStrapDDDWebApi\API1\obj\Debug\netcoreapp2.1\API1.RazorTargetAssemblyInfo.cache
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\BootStrapDDDWebApi\API1\obj\Debug\netcoreapp2.1\API1.dll
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\BootStrapDDDWebApi\API1\obj\Debug\netcoreapp2.1\API1.pdb

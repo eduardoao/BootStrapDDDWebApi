@@ -16,3 +16,7 @@ D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Domain\obj\Debug\netcore
 D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Domain\obj\Debug\netcoreapp2.2\Domain.dll
 D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
 D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Domain\obj\Debug\netcoreapp2.2\Domain.pdb

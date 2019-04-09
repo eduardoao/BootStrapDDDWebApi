@@ -1,0 +1,7 @@
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\bin\Debug\netcoreapp1.1\Cross.deps.json
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\bin\Debug\netcoreapp1.1\Cross.dll
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\bin\Debug\netcoreapp1.1\Cross.pdb
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp1.1\Cross.csprojResolveAssemblyReference.cache
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp1.1\Cross.AssemblyInfo.cs
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp1.1\Cross.dll
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp1.1\Cross.pdb

@@ -6,3 +6,12 @@ D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcorea
 D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.1\Cross.AssemblyInfo.cs
 D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.1\Cross.dll
 D:\Codigos\Entrevistas\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.1\Cross.pdb
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\bin\Debug\netcoreapp2.1\Cross.deps.json
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\bin\Debug\netcoreapp2.1\Cross.dll
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\bin\Debug\netcoreapp2.1\Cross.pdb
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.1\Cross.csprojAssemblyReference.cache
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.1\Cross.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.1\Cross.AssemblyInfoInputs.cache
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.1\Cross.AssemblyInfo.cs
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.1\Cross.dll
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Cross\obj\Debug\netcoreapp2.1\Cross.pdb

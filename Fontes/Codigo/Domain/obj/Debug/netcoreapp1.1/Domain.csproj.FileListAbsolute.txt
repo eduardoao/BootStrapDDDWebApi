@@ -1,0 +1,3 @@
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Domain\bin\Debug\netcoreapp1.1\Domain.deps.json
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Domain\obj\Debug\netcoreapp1.1\Domain.csprojResolveAssemblyReference.cache
+C:\Users\eduardo.oliveira\ProjectTest\BootStrapDDDWebApi\Fontes\Codigo\Domain\obj\Debug\netcoreapp1.1\Domain.AssemblyInfo.cs
